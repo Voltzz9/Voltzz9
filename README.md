@@ -3,25 +3,19 @@
 🤖 Machine Learning Engineer | 📊 Data Scientist | 💻 Software Engineer
 
 Based in the sunny Stellenbosch, South Africa 🌞 where I turn coffee into code and data into insights.
+
 🚀 What I'm Up To
-
 🎓 Currently pursuing my Bachelor's in Data Science at Stellenbosch University
-
 🏆 Led the winning team at Stellenbosch Data School Hackathon 2024
-
 ⛓️ Building smart contracts on Solana at Impact.com
-
 📈 Transforming customer feedback into actionable insights at Sanlam
 
 
 💪 Recent Achievements
 
 🥇 Hackathon Champion: Developed a cutting-edge solution combining Computer Vision, Regression Modeling, and API development to detect and analyze potholes
-
 🎯 Merit Scholar: Consistently ranked in top 5% of academic performers
-
 🌐 Blockchain Pioneer: Engineered a sophisticated 3-way Smart Contract system on Solana
-
 🤖 NLP Innovator: Built end-to-end solutions for processing customer feedback at Sanlam
 
 🛠️ Tech Stack
