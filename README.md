@@ -19,13 +19,15 @@ Based in the sunny Stellenbosch, South Africa 🌞 where I turn coffee into code
 🤖 NLP Innovator: Built end-to-end solutions for processing customer feedback at Sanlam
 
 🛠️ Tech Stack
-pythonCopydavid = {
+```python
+david = {
     'languages': ['Python', 'R', 'Java', 'Rust', 'TypeScript', 'C'],
     'ml_tools': ['TensorFlow', 'Scikit-Learn', 'Computer Vision', 'NLP'],
     'data': ['Statistical Modeling', 'Data Analysis', 'SQL'],
     'blockchain': ['Solana', 'Smart Contracts'],
     'methodologies': ['Agile', 'SCRUM']
 }
+```
 📫 Let's Connect!
 
 📧 Email: davidtnicolay@live.com
