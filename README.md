@@ -1,6 +1,6 @@
 # David Nicolay
 
-> Data Engineer | Machine Learning Engineer | Data Scientist | 
+> Data Engineer | Machine Learning Engineer | Data Scientist
 
 Based in Stellenbosch, South Africa.
 Pursuing a Bachelor's in Data Science at Stellenbosch University.
